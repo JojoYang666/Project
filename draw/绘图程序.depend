@@ -1,0 +1,88 @@
+# depslib dependency file v1.0
+1448439401 source:f:\绘图程序\main.cpp
+	"Semantics.h"
+
+1448440891 f:\绘图程序\include\semantics.h
+	<windows.h>
+	<wingdi.h>
+	"Parser.h"
+
+1448439458 f:\绘图程序\include\parser.h
+	"Scanner.h"
+
+1448439028 f:\绘图程序\include\scanner.h
+	<string.h>
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cctype>
+	<cstdarg>
+	<cmath>
+
+1448440850 source:f:\绘图程序\src\parser.cpp
+	"Parser.h"
+
+1448438334 source:f:\绘图程序\src\scanner.cpp
+	"Scanner.h"
+
+1448440888 source:f:\绘图程序\src\semantics.cpp
+	"Semantics.h"
+
+1448447517 source:c:\users\又小雪\desktop\绘图程序\main.cpp
+	"Semantics.h"
+
+1448447297 c:\users\又小雪\desktop\绘图程序\include\semantics.h
+	<windows.h>
+	<wingdi.h>
+	"Parser.h"
+
+1448447187 c:\users\又小雪\desktop\绘图程序\include\parser.h
+	"Scanner.h"
+
+1448439028 c:\users\又小雪\desktop\绘图程序\include\scanner.h
+	<string.h>
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cctype>
+	<cstdarg>
+	<cmath>
+
+1448447231 source:c:\users\又小雪\desktop\绘图程序\src\parser.cpp
+	"Parser.h"
+
+1448438334 source:c:\users\又小雪\desktop\绘图程序\src\scanner.cpp
+	"Scanner.h"
+
+1448447612 source:c:\users\又小雪\desktop\绘图程序\src\semantics.cpp
+	"Semantics.h"
+
+1450712326 source:d:\绘图程序\main.cpp
+	"Semantics.h"
+
+1450626961 d:\绘图程序\include\semantics.h
+	<windows.h>
+	<wingdi.h>
+	"Parser.h"
+
+1450625303 d:\绘图程序\include\parser.h
+	"Scanner.h"
+
+1448439028 d:\绘图程序\include\scanner.h
+	<string.h>
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cctype>
+	<cstdarg>
+	<cmath>
+
+1450626788 source:d:\绘图程序\src\parser.cpp
+	"Parser.h"
+
+1450623765 source:d:\绘图程序\src\scanner.cpp
+	"Scanner.h"
+
+1450712793 source:d:\绘图程序\src\semantics.cpp
+	"Semantics.h"
+

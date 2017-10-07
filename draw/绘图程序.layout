@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="include\Parser.h" open="1" top="0" tabpos="4">
+		<Cursor position="2554" topLine="33" />
+	</File>
+	<File name="include\Scanner.h" open="1" top="0" tabpos="3">
+		<Cursor position="2519" topLine="47" />
+	</File>
+	<File name="include\Semantics.h" open="1" top="0" tabpos="2">
+		<Cursor position="95" topLine="30" />
+	</File>
+	<File name="main.cpp" open="1" top="1" tabpos="1">
+		<Cursor position="280" topLine="0" />
+	</File>
+	<File name="src\Parser.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="10174" topLine="180" />
+	</File>
+	<File name="src\Scanner.cpp" open="1" top="0" tabpos="7">
+		<Cursor position="545" topLine="159" />
+	</File>
+	<File name="src\Semantics.cpp" open="1" top="0" tabpos="5">
+		<Cursor position="3473" topLine="90" />
+	</File>
+</CodeBlocks_layout_file>
