@@ -1,2 +1,5 @@
 # Project
-1. The directory chat, is a chat system writtened by java, if want to run it just run the file Login.java
+have 3 projects
+1. is a chatting system, written by java
+2. drawing system, written by c++
+3. a algorithm to enhance the low-light image, based on the matlab platomform
