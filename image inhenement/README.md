@@ -1,2 +1,2 @@
-# Project
-1. The directory chat, is a chat system writtened by java, if want to run it just run the file Login.java
+# Low Light Image Enhencement
+There are 2 types algotithm to solve the problem of Low Light Image Enhencement, based on matlab platform
